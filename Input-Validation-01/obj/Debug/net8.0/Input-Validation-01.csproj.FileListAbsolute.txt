@@ -12,3 +12,4 @@
 /data/projects/cprojects/Input-Validation/Input-Validation-01/obj/Debug/net8.0/Input-Validation-01.pdb
 /data/projects/cprojects/Input-Validation/Input-Validation-01/obj/Debug/net8.0/Input-Validation-01.genruntimeconfig.cache
 /data/projects/cprojects/Input-Validation/Input-Validation-01/obj/Debug/net8.0/ref/Input-Validation-01.dll
+/data/projects/cprojects/Input-Validation/Input-Validation-01/obj/Debug/net8.0/Input-Validation-01.sourcelink.json
